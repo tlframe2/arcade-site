@@ -207,3 +207,7 @@ footer.footer {
 #site-link:hover {
   border-bottom: 1px dotted #F05F40;
 }
+
+.row {
+  margin: 2rem 0;
+}
