@@ -211,3 +211,8 @@ footer.footer {
 .row {
   margin: 2rem 0;
 }
+
+.flyer {
+  width: 220px;
+  height: 285px;
+}
